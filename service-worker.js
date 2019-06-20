@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/me./github.com/FarhanYaseen/FarhanYaseen.github.io/precache-manifest.ce40e342b1df2d15b9ce71b1db4d95dd.js"
+  "/FarhanYaseen/FarhanYaseen.github.io/precache-manifest.a089f10689548206ade3e21e7fab8bc8.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/me./github.com/FarhanYaseen/FarhanYaseen.github.io/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/FarhanYaseen/FarhanYaseen.github.io/index.html"), {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
