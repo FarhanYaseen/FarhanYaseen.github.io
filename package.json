@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https:/me./github.com/FarhanYaseen/FarhanYaseen.github.io",
+  "homepage": "https://github.com/FarhanYaseen/FarhanYaseen.github.io",
   "devDependencies": {
     "gh-pages": "^2.0.1",
     "react-scripts": "^3.0.0"
