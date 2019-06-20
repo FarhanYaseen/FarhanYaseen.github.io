@@ -1,0 +1,223 @@
+{
+	"name": "Farhan Yaseen",
+	"email": "farhan.yaseen.se@gmail.com",
+	"phone": "+92-301-4754870",
+	"image": "/assets/images/profilepic_100x100.png",
+	"website": "https://farhan-yaseen.herokuapp.com/",
+	"title": "Software Engineer",
+	"social": [
+		{
+			"name": "twitter",
+			"url": "https://twitter.com/FarhanYaseen_",
+			"className": "fa fa-twitter"
+		},
+		{
+			"name": "linkedin",
+			"url": "https://www.linkedin.com/in/farhanyaseen",
+			"className": "fa fa-linkedin"
+		},
+		{
+			"name": "github",
+			"url": "https://github.com/FarhanYaseen",
+			"className": "fa fa-github"
+		},
+		{
+			"name": "stack-overflow",
+			"url": "https://stackoverflow.com/users/6768585/farhan-yaseen",
+			"className": "fa fa-stack-overflow"
+		}
+	],
+	"twitter": "@FarhanYaseen_",
+	"twitterURL": "https://twitter.com/FarhanYaseen_",
+	"linkedinURL": "https://www.linkedin.com/in/farhanyaseen",
+	"linkedin": "farhanyaseen",
+	"stackoverflowURL": "https://stackoverflow.com/users/6768585/farhan-yaseen",
+	"stackoverflow": "farhanyaseen",
+	"githubURL": "https://github.com/FarhanYaseen",
+	"github": "FarhanYaseen",
+	"download": "Download!",
+	"downloadURL": "https://drive.google.com/open?id=1Nk433VJaV72VFESZI0GRPUFTdh3ZXAbj",
+	"description": "Energetic Software Engineer with 3+ years of developing robust  Applications. Experience in managing the code base for large scale Applications. Worked individual as well as part of a team in different projects. Strong written and verbal communications. Interested in a challenging technical track career. Capable of learning new things rapidly and using the old knowledge to build a defensive solution in a critical situation.",
+	"experiences": [
+		{
+			"title": "Software Engineer",
+			"period": "2018 - Present",
+			"company": "Cloudcade",
+			"companyURL": "https://cloudcade.com/",
+			"details": ""
+		},
+		{
+			"title": "Software Engineer",
+			"period": "2016 - 2018",
+			"company": "Fizz.io",
+			"companyURL": "https://fizz.io/",
+			"details": ""
+		}
+	],
+	"projects": [
+		{
+			"name": "Shop Heroes Legends",
+			"url": "https://shopheroes.com/",
+			"detail": "Shop Heroes Legends is a fantasy shop simulation and city building game and higher version of Shop Heroes",
+			"techs": [
+				"NodeJS",
+				"MongoDB",
+				"Redis",
+				"Jenkins",
+				"Docker",
+				"NewRelic",
+				"RedShift",
+				"Kinesis",
+				"CodeDeploy",
+				"Elastic Load Balancer",
+				"EC2",
+				"Route53",
+				"AWS Certificate Manager"
+			],
+			"description": [
+				"Developed and maintained backend server as a part of a team.",
+				"Set up monitoring, CI/CD pipelines using Jenkins AWS Code Deploy",
+				"Worked on setting analytics using Kinesis and RedShift.",
+				"Worked on adding unit testing and bot clients.",
+				"Set up AutoScaling Group Policy, Load Balancer"
+			]
+		},
+		{
+			"name": "Game tool",
+			"url": "https://dev-gametool.legends.cloudcade.com/",
+			"detail": "Game tool is in house CSR tool. It allows to manage different functionality of Game. Like reward packages, manage user state, Global Chat",
+			"techs": [
+				"NodeJS",
+				"Vue",
+				"babel",
+				"webpack",
+				"HTML/CSS",
+				"Redis",
+				"MongoDB",
+				"S3",
+				"Route53",
+				"Elastic Load Balancer",
+				"EC2",
+				"Code Deploy",
+				"AutoScaling Group"
+			],
+			"description": [
+				"Developed the backend API’s for Gametool using NodeJS.",
+				"Moved existing Angular Application to the Vue"
+			]
+		},
+		{
+			"name": "Fizz",
+			"url": "https://fizz.io/",
+			"detail": "Fizz is an Instant Messenger (IM) inside mobile games, it translates in 33 languages in real-time. Discuss strategies, add friends inside the games.",
+			"techs": [
+				"NodeJS",
+				"Redis",
+				"Postgresql",
+				"Cloud Formation",
+				"Lambda",
+				"Cloud Watch",
+				"New Relic",
+				"Elastic Beanstalk",
+				"Jenkins",
+				"CloudFlare",
+				"SES",
+				"SNS",
+				"CodePipeline"
+			],
+			"description": [
+				"Worked on the backend server developing and maintaining API’s.",
+				"Handled DevOps for the platform which included Deploying.",
+				"Set up monitoring using New Relic and Cloud Watch.",
+				"CI/CD pipelines using Jenkins and Docker.",
+				"Automated API documentation.",
+				"Added Unit testing and End-to-End testing.",
+				"Developed Unit tests and end to end tests for existing codebase and new features."
+			]
+		},
+		{
+			"name": "Fizz Dashboard",
+			"url": "https://console.fizz.io/",
+			"detail": "Developer Portal for managing Apps for the Fizz. Also provides the DAU, MAU and Sentiment Analysis for the integrated game.",
+			"techs": [
+				"ReactJS",
+				"NodeJS",
+				"Webpack",
+				"HTML/CSS",
+				"Jenkins",
+				"Docker",
+				"PostgreSQL"
+			],
+			"description": [
+				"Design and developed the API and Backend Server.",
+				"Developed React based Single Page Application.",
+				"Developed end to end and Unit Tests."
+			]
+		}
+	],
+	"skills": [
+		{
+			"name": "Node JS",
+			"percent": "85%"
+		},
+		{
+			"name": "MongoDB & Redis",
+			"percent": "85%"
+		},
+		{
+			"name": "Amazon Web Services",
+			"percent": "85%"
+		},
+		{
+			"name": "Jenkins & Docker",
+			"percent": "80%"
+		},
+		{
+			"name": "React & Redux",
+			"percent": "70%"
+		},
+		{
+			"name": "Vue & Vuex",
+			"percent": "70%"
+		},
+		{
+			"name": "HTML5 & CSS",
+			"percent": "70%"
+		},
+		{
+			"name": "Java & C#",
+			"percent": "65%"
+		},
+		{
+			"name": "Python",
+			"percent": "50%"
+		}
+	],
+	"education": [
+		{
+			"degree": "BS IT. Bachelor in Information Technology",
+			"university": "Punjab University College of Information Technology",
+			"period": "2012 - 2016"
+		},
+		{
+			"degree": "F.Sc (Pre-Engineering). Faculty of Science ",
+			"university": "Government College Township Lahore",
+			"period": "2010 - 2012"
+		}
+	],
+	"languages": [
+		{
+			"name": "English",
+			"details": "Professional"
+		},
+		{
+			"name": "Urdu",
+			"details": "Native"
+		}
+	],
+	"interests": [
+		"Hiking",
+		"Photography",
+		"Coding"
+	]
+}
